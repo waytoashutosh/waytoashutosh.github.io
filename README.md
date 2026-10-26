@@ -7,7 +7,7 @@ A responsive, accessible portfolio built with HTML, CSS, JavaScript, and origina
 For the profile URL `https://waytoashutosh.github.io/`:
 
 1. Create a **public** repository named **`waytoashutosh.github.io`** under the `waytoashutosh` account.
-2. Upload `index.html`, `styles.css`, `script.js`, `.nojekyll`, and the `assets` folder to its `main` branch. Keep the files at the repository root, rather than in a nested portfolio directory.
+2. Upload `index.html`, `styles.css`, `mathworks.css`, `script.js`, `.nojekyll`, and the `assets` folder to its `main` branch. Keep the files at the repository root, rather than in a nested portfolio directory.
 3. Open **Settings → Pages**.
 4. Under **Build and deployment → Source**, select **Deploy from a branch**.
 5. Select **main**, **/(root)**, and **Save**.
@@ -30,7 +30,7 @@ Then visit `http://localhost:8000`.
 ## Edit the portfolio
 
 - **Text and links:** edit `index.html`.
-- **Colors, fonts, and layout:** edit `styles.css`; shared colors are at the top.
+- **Colors, fonts, and layout:** edit `styles.css`; shared colors are at the top. The MathWorks contribution section is styled in `mathworks.css`.
 - **Interactions:** edit `script.js`. Project filtering and the ascent/descent illustration work without a backend.
 - **Projects:** duplicate an `<article class="project-card">` element, update its `data-categories`, then update the All work count.
 - **Resume:** add your current PDF to `assets/`, then add a link to it. No outdated or placeholder resume is included.

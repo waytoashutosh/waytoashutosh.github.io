@@ -13,7 +13,7 @@
 <text x="64" y="426" font-size="23">Carnegie Mellon · MRSD</text>
 <text x="64" y="463" font-size="20" fill="#687066">Previously MathWorks · ROS Toolbox</text>
 <rect x="710" y="113" width="430" height="388" rx="24" fill="#e8ebdf" stroke="#d5dacd"/>
-<text x="736" y="149" font-size="11" letter-spacing="1.7" fill="#65715d">FROM LEARNING TO THE REAL WORLD</text>
+<text x="736" y="149" font-size="11" letter-spacing="1.7" fill="#65715d">HUMANOID LOCOMOTION</text>
 </g>
 <svg x="722" y="164" width="420" height="308" viewBox="0 0 560 410">
             <title id="terrain-title">An illustration of humanoid staircase locomotion</title>

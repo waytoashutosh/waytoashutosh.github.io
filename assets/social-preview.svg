@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Ashutosh Kumar — Robotics and Robot Learning</title>
+<desc>Portfolio thumbnail with a humanoid staircase illustration, CMU MRSD, and previous MathWorks experience.</desc>
+<rect width="1200" height="630" fill="#f6f5f0"/>
+<rect x="0" y="0" width="1200" height="8" fill="#344b3b"/>
+<g font-family="Arial, sans-serif" fill="#29372e">
+<circle cx="68" cy="78" r="5" fill="#aa5735"/>
+<text x="85" y="84" font-size="17" letter-spacing="2.2">ROBOTICS ENGINEER · CMU MRSD</text>
+<text x="62" y="208" font-family="Georgia, serif" font-size="66" letter-spacing="-1.4">Ashutosh Kumar</text>
+<text x="64" y="290" font-size="43" font-weight="700" letter-spacing="-1">Robotics &amp;</text>
+<text x="64" y="344" font-size="43" font-weight="700" letter-spacing="-1">robot learning.</text>
+<rect x="65" y="378" width="54" height="3" rx="1.5" fill="#aa5735"/>
+<text x="64" y="426" font-size="23">Carnegie Mellon · MRSD</text>
+<text x="64" y="463" font-size="20" fill="#687066">Previously MathWorks · ROS Toolbox</text>
+<rect x="710" y="113" width="430" height="388" rx="24" fill="#e8ebdf" stroke="#d5dacd"/>
+<text x="736" y="149" font-size="11" letter-spacing="1.7" fill="#65715d">FROM LEARNING TO THE REAL WORLD</text>
+</g>
+<svg x="722" y="164" width="420" height="308" viewBox="0 0 560 410">
+            <title id="terrain-title">An illustration of humanoid staircase locomotion</title>
+            <desc id="terrain-desc">A jointed humanoid above a staircase, with a dotted reference path and highlighted footholds. The controls below change the direction of the illustrative path.</desc>
+            <defs>
+              <pattern id="terrain-grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c7cdbf" opacity=".52"/></pattern>
+              <linearGradient id="stair-fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d2d8c8"/><stop offset="1" stop-color="#e4e7dc"/></linearGradient>
+            </defs>
+            <rect x="0" y="0" width="560" height="410" fill="url(#terrain-grid)"/>
+            <g class="staircase" stroke="#89967c" stroke-width="1.3" stroke-linejoin="round">
+              <path d="M51 341h110v-43h99v-45h99v-45h108v133z" fill="url(#stair-fill)"/>
+              <path d="M51 341 98 371h418V238l-49-30v133z" fill="#c8cfbc"/>
+              <path d="m161 298 49 30h99v-45h99v-45h108M260 253l49 30M359 208l49 30M210 328v43M309 283v88M408 238v133" fill="none" opacity=".7"/>
+              <path d="m161 341 49 30M260 341l49 30M359 341l49 30" fill="none" opacity=".3"/>
+            </g>
+            <path id="reference-path" d="M100 293C187 287 199 238 268 233S376 179 444 179" fill="none" stroke="#b7613e" stroke-width="2" stroke-dasharray="4 7"/>
+            <path id="direction-arrow" d="m434 173 11 6-10 7" fill="none" stroke="#b7613e" stroke-width="2"/>
+            <g fill="#b7613e"><ellipse cx="210" cy="297" rx="19" ry="5" opacity=".5"/><ellipse cx="306" cy="252" rx="19" ry="5" opacity=".75"/><ellipse cx="410" cy="207" rx="19" ry="5" opacity=".9"/></g>
+            <g class="robot" fill="none" stroke="#304437" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+              <path d="m287 135-14 44 31 29-4 41h17M273 179l-27 50-34 64h16"/>
+              <path d="m287 136-10-43 28-7 13 43z" fill="#64775d" stroke-width="2"/>
+              <path d="m278 103-27 32-8 30M311 99l22 24 24-13" stroke-width="6"/>
+              <path d="m291 89-2-16" stroke-width="5"/>
+              <rect x="277" y="48" width="30" height="29" rx="9" fill="#d6dccd" stroke-width="2.5"/>
+              <path d="M285 59h13" stroke="#b7613e" stroke-width="3"/>
+            </g>
+            <g fill="#f2f3e9" stroke="#304437" stroke-width="2"><circle cx="273" cy="179" r="6"/><circle cx="304" cy="208" r="5"/><circle cx="246" cy="229" r="5"/><circle cx="278" cy="103" r="4"/><circle cx="311" cy="99" r="4"/></g>
+            <g class="scene-annotation" fill="#65715d" font-family="monospace" font-size="10"><path d="M343 63h55l13 13" fill="none" stroke="#95a18c"/><text x="346" y="55">PERCEIVE → PLAN → ACT</text><path d="M133 233H79v-17" fill="none" stroke="#95a18c"/><text x="64" y="205">TERRAIN</text></g>
+          </svg>
+<path d="M64 529H1140" stroke="#dddfd5"/>
+<g font-family="Arial, sans-serif" font-size="19" fill="#687066">
+<text x="64" y="573">waytoashutosh.github.io</text>
+<text x="1140" y="573" text-anchor="end" font-size="16" letter-spacing="1.6">PORTFOLIO ↗</text>
+</g>
+</svg>
